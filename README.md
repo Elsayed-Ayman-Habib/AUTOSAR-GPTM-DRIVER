@@ -8,4 +8,4 @@
 
 ➢Implement PORT AUTOSAR Driver for Texas TM4C123GH6PM (Tiva-C).
 
-Implement GPTM AUTOSAR Driver for Texas TM4C123GH6PM (Tiva-C).
+➢Implement GPTM AUTOSAR Driver for Texas TM4C123GH6PM (Tiva-C).
